@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Sayem</h1>
+<h1 align="center">Hey!, I'm Sayem</h1>
 <h3 align="center">You can learn Machine Learning & AI from me</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayemsfte" alt="sayemsfte" /></a> </p>
